@@ -1,11 +1,11 @@
 # Distributed-SpMV
 分布式稀疏矩阵-向量乘
 
-purempi_spmv_withouthp.c MPI分布式SpMV（未使用超图分割）
+purempi_spmv_withouthp.c - MPI分布式SpMV（未使用超图分割）
 
-purempi_spmv.c MPI分布式SpMV（使用超图分割）
+purempi_spmv.c - MPI分布式SpMV（使用超图分割）
 
-spmv.c MPI+OpenMP分布式SpMV
+spmv.c - MPI+OpenMP分布式SpMV
 
 编译：
 
